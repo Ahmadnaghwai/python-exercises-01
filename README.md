@@ -7,3 +7,7 @@
 ## Übungsaufgabe 2
 
 - Dieses Skript führt mathematische Operationen mit zwei Ganzzahlen durch und gibt die Ergebnisse aus.
+
+## Übungsaufgabe 3 
+
+-neue skript
